@@ -2,6 +2,10 @@
 
 這是一個使用 Verilog 實現的電子鎖電路專案。
 
+## Demo 影片
+1. https://youtu.be/u7Dlhsxrk5w
+2. https://youtu.be/8gFhBvymY7Q
+
 ## 功能簡介
 此電子密碼鎖實現了以下功能： 
 1. 4位數密碼 
